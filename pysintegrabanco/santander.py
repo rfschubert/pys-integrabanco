@@ -33,6 +33,7 @@ class BoletoSantander:
 
 class ProcessaFrancesinha:
     BOLETOS = []
+    TOTAL_BOLETOS = 0
     LIQUIDACAO_LINHA_INICIAL = 0
     LIQUIDACAO_LINHA_FINAL = 0
 
@@ -55,6 +56,7 @@ class ProcessaFrancesinha:
             for line_number, line in enumerate(f, 1):
                 self.parse_linha_para_boleto(line, line_number)
 
+        self.TOTAL_BOLETOS = len(self.BOLETOS)
         return self
 
     def set_linha_final_boletos(self, linha, linha_numero):
