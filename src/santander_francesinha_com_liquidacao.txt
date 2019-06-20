@@ -1,0 +1,44 @@
+1                                                                                                                                    
+ BANCO SANTANDER (BRASIL) S/A             AVISO DE MOVIMENTACAO DA CARTEIRA DE TITULOS        DT.GER.: 13/06/2019           02.28.08 
+ YK - COBRANCA                                                          DEST.: 001-XXXX-CARAGUATATUBA-PR
+                     PRODUTO: COBRANCA SIMPLES                        MODALIDADE: RAPIDA COM REGISTRO                                
+ NOME DO CLIENTE                                    BANCO AGENCIA  CONTA COBRANCA   IDENT BENEFICIARIO  DATA MOVIMENTO  NO.AVISO     
+ XXXXX XXXX XXXXXXX LTDA                             033   4171.8       130014XXX         86XXX.6         12/06/2019     0000004
+ END: R X XXXXXXX XXX                                        NOME AG.: PRAIA-CARAGUATATUBA-
+ CEP: XXXXX-XXX    CARAGUATATUBA          PR
+                                                                                                                                     
+ LANCAMENTOS A SEREM EFETUADOS EM CONTA CORRENTE                                                                                     
+ DATA       HISTORICO                     CONTA CREDITO       CONTA DEBITO  VALOR DO CREDITO/DEBITO      DATA DE DESBLOQUEIO         
+ 14/06      COB BLOQ COMP                 000130014015                                         40,00                                 
+                                                                                                                                     
+ ------------------------------------------------ RESUMO DE MOVIMENTACAO DA CARTEIRA ------------------------------------------------
+                                                                                   VENCIDOS                      A VENCER            
+                                                                               QTD          VALOR           QTD           VALOR      
+ SALDO ANTERIOR                    25             205,55  TITULOS                    0              0,00         26            355,55
+    ENTRADAS                        2             190,00  ATE 10 DIAS                0              0,00         11            213,55
+    ENTRADAS-DDA                    0               0,00  DE 11 A 30 DIAS            0              0,00         15            142,00
+    LIQUIDACOES                     1              40,00  ACIMA DE 30 DIAS           0              0,00          0              0,00
+       CHEQUES                      0               0,00  EM CARTORIO                0              0,00                             
+       DINHEIRO                     0               0,00                                                                             
+       COMPENSACAO                  1              40,00                                                                             
+       CIP                          0               0,00                                                                             
+    LIQUIDACOES-DDA                 0               0,00                                                                             
+       CHEQUES                      0               0,00                                                                             
+       DINHEIRO                     0               0,00                                                                             
+       COMPENSACAO                  0               0,00                                                                             
+       CIP                          0               0,00                                                                             
+    BAIXAS                          0               0,00                                                                             
+    BAIXAS-DDA                      0               0,00                                                                             
+ SALDO ATUAL                       26             355,55                                                                             
+                                                                                                                                     
+ ------------------------------------------------------------- ENTRADAS -------------------------------------------------------------
+     PAGADOR          SEU NUMERO  NOSSO NUMERO   VENCIMENTO      VALOR TITULO       TARIFAS      N.BORDERO     EVENTO                
+ ANDERSON DA CO       0000000051  0000000000051  17/06/2019             40,00          0,00                    ENTRADA               
+ MATHEUS CESAR        0000000056  0000000000056  18/06/2019            150,00          0,00                    ENTRADA               
+ TOTAL                                                                 190,00          0,00                                          
+                                                                                                                                     
+ ----------------------------------------------------------- LIQUIDACOES ------------------------------------------------------------
+     PAGADOR    SEU NUMERO  NOSSO NUMERO VENCTO DT PGT    VALOR TITULO JUROS/MORA  ABAT/DESC      VALOR PAGO TARIFAS(T) EVENTO       
+                                                                                                             CUSTAS (C)              
+ ANDERSON DA CO 0000000051 0000000000051 170619 120619           40,00       0,00       0,00           40,00      1,78T LIQ COMPENS  
+ TOTAL                                                           40,00       0,00       0,00           40,00      1,78
