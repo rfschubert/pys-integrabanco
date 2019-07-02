@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pysintegrabanco',
-    version='0.0.3',
+    version='0.0.4',
     description='Leitura de arquivos bancarios, francesinhas, .TXT ou .RET',
     url='https://github.com/rfschubert/pys-integrabanco',
     author='Raphael Schubert',

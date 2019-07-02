@@ -45,7 +45,16 @@ class BancoDoBrasil:
         self.TOTAL_LINHAS_ARQUIVO = conta_total_linhas(arquivo)
 
     def processa_arquivo(self, arquivo):
+        try:
+            self.__processa(arquivo)
+        except:
+            self.__processa(arquivo, decode=True)
+
+    def __processa(self, arquivo, decode=False):
         for line_number, line in enumerate(arquivo, 1):
+            if decode is True:
+                line = str(line.decode("utf-8"))
+
             if line_number == 1:
                 print("ENTROU HEADER")
                 self.HEADER = self.registro_header_retorno(line)
